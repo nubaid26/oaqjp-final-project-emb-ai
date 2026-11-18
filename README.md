@@ -1,6 +1,6 @@
-# Emotion Detector - AI-Based NLP Web Application
+# Final project: Emotion Detector - AI-Based NLP Web Application
 
-This repository contains the final project for **Emotion Detector**, an AI-based web application developed using Python, Flask, and the IBM Watson NLP Emotion Predict library.
+This repository contains the **Final project** for **Emotion Detector**, an AI-based web application developed using Python, Flask, and the IBM Watson NLP Emotion Predict library.
 
 ## Features
 - **Watson NLP Emotion Detection**: Analyzes input text and returns scores for `anger`, `disgust`, `fear`, `joy`, and `sadness`, along with the `dominant_emotion`.
